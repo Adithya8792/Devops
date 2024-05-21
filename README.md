@@ -3,9 +3,3 @@
 Hi
 Hello
 Namaskara
-
-
-
-
-
-Hey
